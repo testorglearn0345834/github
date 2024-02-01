@@ -5,7 +5,7 @@
 ___Дальше будет самый странный Hello World на Python___
 
 ```python
-import asycio
+import asyncio
 
 
 async def hello(name: str) -> None:
